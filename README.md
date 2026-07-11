@@ -13,4 +13,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/unknownhero88/leetCode/tree/master/1189-maximum-number-of-balloons) |
+## Array
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/unknownhero88/leetCode/tree/master/0064-minimum-path-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/unknownhero88/leetCode/tree/master/0064-minimum-path-sum) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/unknownhero88/leetCode/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
